@@ -20,7 +20,7 @@ Test class是测试class，用于输入程序需要的内容。
 1.人员，2.教师，3.学生，4.课程，5.main函数。  
 在明确结构之后开始编写程序，并不断在编写的过程中调试程序，修正出现的问题，并最终完成实验目的。  
 ## 四、实验流程图  
-  
+![流程图](https://github.com/FanJiahang/experiment-3-2020/blob/main/java_experiment_3(2).png)  
 ##  五、程序运行截图  
   
 
