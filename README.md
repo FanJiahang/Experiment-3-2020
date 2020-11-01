@@ -22,7 +22,7 @@ Test class是测试class，用于输入程序需要的内容。
 ## 四、实验流程图  
 ![流程图](https://github.com/FanJiahang/experiment-3-2020/blob/main/java_experiment_3(2).png)  
 ##  五、程序运行截图  
-  
+![运行截图]()  
 
 ## 六、编程感想  
     这次实验的过程中，我深刻体会到作为一名程序员，自身需要的专业知识和逻辑思维是多么的重要。第一次独立完成Java project，深感完成项目的艰辛。  
