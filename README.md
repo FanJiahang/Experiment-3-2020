@@ -22,6 +22,6 @@ Test class是测试class，用于输入程序需要的内容。
 ## 四、实验流程图  
 ![流程图](https://github.com/FanJiahang/experiment-3-2020/blob/main/java_experiment_3(2).png)  
 ##  五、程序运行截图  
-![运行截图](https://github.com/FanJiahang/experiment-3-2020/blob/main/java_experiment_3.png)  
+![运行截图](https://raw.githubusercontent.com/FanJiahang/Experiment-3-2020/main/java_experiment_3.png)  
 ## 六、编程感想  
     通过这次实验，我初步掌握了面向对象的类设计方法，掌握了类的继承用法，以及通过构造方法实例化对象、如何使用super（），用于实例化子类。在编程过程中，Test类出现了一些语法层面的错误，修改花费了很长的时间，在今后的编程过程中应更加仔细，不应在语法层面出现错误造成浪费时间的状况。
